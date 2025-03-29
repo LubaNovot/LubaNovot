@@ -2,4 +2,4 @@
 - 👀 I’m interested in crafting high-quality responsive websites and web applications. I have a strong foundation in HTML, CSS, JavaScript and experience with WordPress.
 - 🌱 I’m currently expanding my skillset in advanced JavaScript libraries and frameworks like React and Vue.js, to deliver richer user experiences.
 - 💞️ I’m open to collaborating on web development projects that challenge me and provide the opportunity to produce compelling digital solutions.
-- 📫 You can reach me via my website at [www.lubanovot.com] (https://www.lubanovot.com/) or email me at luba.novot@gmail.com
+- 📫 You can reach me via email me at luba.novot@gmail.com
